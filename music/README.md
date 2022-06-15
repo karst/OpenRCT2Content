@@ -10,5 +10,9 @@ On this page you will find custom music and music packs I made for OpenRCT2.
 ### Packs
 RCT3 : All rights belong to Frontier Developments & Alistair Lindsay.
 
-### Lose songs:
-My Own music: TBA
+### My Own music:  
+TBA
+
+
+### Lose songs:  
+Pizza Style: Emanuel Kallins - Tarantella  
