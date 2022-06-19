@@ -1,0 +1,4 @@
+cd C:\Program Files (x86)\Steam\steamapps\common\Rollercoaster Tycoon 2
+
+
+openrct2.com sprite exportalldat MWB-PLP3 F:\OpenRCT2Images\
