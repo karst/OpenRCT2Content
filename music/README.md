@@ -14,5 +14,6 @@ RCT3 : All rights belong to Frontier Developments & Alistair Lindsay.
 TBA
 
 
-### Lose songs:  
-Pizza Style: Emanuel Kallins - Tarantella  
+### Lose ride music:  
+Pizza Style: Emanuel Kallins
+Viking Style: Mike Olsen
